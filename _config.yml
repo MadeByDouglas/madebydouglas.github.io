@@ -16,7 +16,7 @@
 title: Made By Douglas
 email: madebydouglas@icloud.com
 description: >- # this means to ignore newlines until "baseurl:"
-Believer, designer, developer. Passionate about making insanely great things.
+  Believer, designer, developer. Passionate about making insanely great things.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://madebydouglas.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: madebydouglas
