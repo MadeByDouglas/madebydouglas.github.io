@@ -3,16 +3,14 @@ layout: page
 title: About
 permalink: /about/
 ---
+Hello and welcome!
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+This is my digital resume similar to what is found on <a target="_blank" href="http://www.linkedin.com/in/madebydouglas">LinkedIn</a>. 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Please check out my repos at <a target="_blank" href="https://github.com/MadeByDouglas">GitHub</a>&nbsp;and my <a target="_blank" href="http://stackoverflow.com/users/4531087/audentia">Stack Overflow</a>&nbsp;account.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+You can also check out a quick interview of me from 3 years ago at <a target="_blank" href="https://www.bloc.io/ios-bootcamp">Bloc</a>, (it's at the bottom) where I learned to code iOS. 
 
+While on those other sites I remain professional and to the point, here I'd like to keep the atmosphere a bit more personal. So you'll find similar work examples and a great focus on UX Design and iOS Development, but also side projects of mine and insights into who I am.
 
-[jekyll-organization]: https://github.com/jekyll
+A quick manifesto: I love when ingenuity and craftsmanship combine to create products that improve people’s lives and I find that in iOS. I’m eager to be part of a team where I can contribute my talents and learn from those around me. I believe businesses have the unique opportunity and responsibility to improve the lives of everyone they contact,&nbsp;whether it be their customers,&nbsp;employees,&nbsp;or the environment.
