@@ -4,13 +4,15 @@ title: About
 permalink: /about/
 ---
 
-Hello and welcome!
+# Hello and welcome!
 
-This is my digital resume similar to what is found on [LinkedIn](http://www.linkedin.com/in/madebydouglas)
+![douglas](/assets/img/douglas.jpg){:class="img-responsive"}
 
-Please check out my repos at [GitHub](https://github.com/MadeByDouglas) &nbsp; and my [StackOverflow](http://stackoverflow.com/users/4531087/audentiaa) &nbsp; account.
+This is my digital resume similar to what is found on [LinkedIn](http://www.linkedin.com/in/madebydouglas){:target="_blank"}
 
-You can also check out a quick interview of me from 3 years ago at [Bloc.io](https://www.bloc.io/ios-bootcamp), (it's at the bottom) where I learned to code iOS.
+Please check out my repos at [GitHub](https://github.com/MadeByDouglas){:target="_blank"} &nbsp; and my [StackOverflow](http://stackoverflow.com/users/4531087/audentiaa){:target="_blank"} &nbsp; account.
+
+You can also check out a quick interview of me from 3 years ago at [Bloc.io](https://www.bloc.io/ios-bootcamp){:target="_blank"}, (it's at the bottom) where I learned to code iOS.
 
 While on those other sites I remain professional and to the point, here I'd like to keep the atmosphere a bit more personal. So you'll find similar work examples and a great focus on UX Design and iOS Development, but also side projects of mine and insights into who I am.
 

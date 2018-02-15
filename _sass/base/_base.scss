@@ -31,6 +31,13 @@ img {
   vertical-align: middle;
 }
 
+.half_image {
+  width: 50%;
+  height: auto;
+  width: auto;
+  vertical-align: left;
+}
+
 img::selection {
   background: transparent;
 }
