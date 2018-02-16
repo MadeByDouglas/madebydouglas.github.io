@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tesla Insurance Concept
-date:   2018-02-01 16:23:06 -0800
+date:   2018-02-02 16:23:06 -0800
 categories: projects
 featured-img: teslaCover
 ---
