@@ -31,13 +31,13 @@ img {
   vertical-align: middle;
 }
 img .sm {
-  width: 30%;
+  max-width: 30%;
 }
 img .md {
-  width: 50%;
+  max-width: 50%;
 }
 img .lg {
-  width: 80%;
+  max-width: 80%;
 }
 
 .half_image {
